@@ -10,13 +10,13 @@ Merci de mettre les recettes dans les dossiers correspondants, pour que les tart
 Exemple de recette (super, miam):
 
 ## Ingrédients :
-1 pâte sablée
-600 g de fraises
-3 cuillères à soupe de sucre glace
-60 g d’amandes moulues
-50 g de sucre en poudre
-20 cl de crème liquide
-2 œufs entiers
+-1 pâte sablée
+-600 g de fraises
+-3 cuillères à soupe de sucre glace
+-60 g d’amandes moulues
+-50 g de sucre en poudre
+-20 cl de crème liquide
+-2 œufs entiers
 
 ## Préparation :
 Préparez la pâte : Placez la pâte sablée dans un moule à tarte préalablement beurré et fariné. Piquez la pâte avec une fourchette et préchauffez le four à 180°C.
