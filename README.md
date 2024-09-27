@@ -1,7 +1,7 @@
 # Recettes de tartes aux fraises
 
-Ici, nous les apprécieurs de tartes aux fraises, partageons des fichiers **anonymement** à propos de notre péché mignon.
-Emphase sur le _**anonymement.**_ Le compte github avec un pseudo est bien assez.
+Ici, nous les apprécieurs de tartes aux fraises, partageons des fichiers à propos de notre péché mignon.
+**Evitez d'inclure des infos personnelles dans ce que vous publiez.**
 
 Il est préférable que ce github ne soit pas partagé. Sinon, les tartes aux fraises se veront compromises.
 
@@ -26,4 +26,4 @@ Préparez les fraises : Rincez, égouttez et équeutez les fraises. Coupez-les e
 Assemblage : Disposez délicatement les fraises sur le fond de tarte refroidi.
 Et voilà, votre tarte aux fraises est prête à être dégustée ! Bon appétit ! 🍓
 
-merci copilot
+merci copilot de microsoft (très pratique)
